@@ -1,0 +1,7 @@
+Rewrite the following sentence in the style of a Wikipedia data, using formal and objective language. Only express the factual knowledge present in the sentence, without adding any extra information or inventing details. Your output must be one or more sentences, only needs to include direct results without extra words.
+
+Input:
+
+Sentence: {}
+
+Output:

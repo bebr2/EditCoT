@@ -1,0 +1,46 @@
+[
+    {
+        "role": "system",
+        "content": "You can edit the following chains of thought based on the new knowledge."
+    },
+    {
+        "role": "user",
+        "content": "Question: Which country is the author of \"Moneyball\" a citizen of?\nOld Thoughts: The author of Moneyball is Michael Lewis.\nMichael Lewis is a citizen of United States of America.\nNew knowledge: The author of Our Mutual Friend is Charles Dickens\nPlease give me the new chain of thought based on the new knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": "Relevance of knowledge and chain of thought: Unrelated."
+    },
+    {
+        "role": "user",
+        "content": "Question: What language does the Shadow Home Secretary speak, write, or sign?\nOld Thoughts: The Shadow Home Secretary is Diane Abbott.\nDiane Abbott speaks the language of English.\nNew knowledge: The Shadow Home Secretary is Diane Abbott\nPlease give me the new chain of thought based on the new knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": "Relevance of knowledge and chain of thought: Support."
+    },
+    {
+        "role": "user",
+        "content": "Question: What is the notable work of the author of \"This Side of Paradise\"?\nOld Thoughts: The author of This Side of Paradise is F. Scott Fitzgerald.\nF. Scott Fitzgerald is famous for The Great Gatsby.\nNew knowledge: The author of This Side of Paradise is Geoffrey Chaucer\nPlease give me the new chain of thought based on the new knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": "Relevance of knowledge and chain of thought: Contradict.\nNew Thoughts: The author of This Side of Paradise is Geoffrey Chaucer.\nGeoffrey Chaucer is famous for Shaman King."
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the head of government of the country where Roy Ascott holds citizenship?\nOld Thoughts: Roy Ascott is a citizen of United Kingdom.\nThe name of the current head of the United Kingdom government is Boris Johnson.\nNew knowledge: Roy Ascott is a citizen of United States of America\nPlease give me the new chain of thought based on the new knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": "Relevance of knowledge and chain of thought: Contradict.\nNew Thoughts: Roy Ascott is a citizen of United States of America.\nThe name of the current head of the United States of America government is Ole Johan Vierdal."
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the spouse of the performer of the song \"Don't Be Cruel\"?\nOld Thoughts: Don't Be Cruel was performed by Elvis Presley.\nElvis Presley is married to Priscilla Presley.\nNew knowledge: Don't Be Cruel was performed by Elvis Presley\nPlease give me the new chain of thought based on the new knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": "Relevance of knowledge and chain of thought: Support."
+    }
+]

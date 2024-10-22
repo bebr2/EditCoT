@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "Question: What is the capital of the country where Plainfield Town Hall is located?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer: Washington, D.C."
+    },
+    {
+        "role": "user",
+        "content": "Question: In which country is the company that created Nissan 200SX located?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer: Japan"
+    },
+    {
+        "role": "user",
+        "content": "Question: Which continent is the country where the director of \"My House Husband: Ikaw Na!\" was educated located in?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer: Asia"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the spouse of the US president?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer: Jill Biden"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who has ownership of the developer of the Chevrolet Corvette (C4)?"
+    },
+    {
+        "role": "assistant",
+        "content": "Answer: General Motors"
+    }
+]

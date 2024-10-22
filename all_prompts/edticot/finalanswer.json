@@ -1,0 +1,46 @@
+[
+    {
+        "role": "system",
+        "content": "Suppose the world knowledge has been updated. Answer the question based on the [New Thoughts] rather than your own knowledge. Don't analyze whether the reasoning of [New Thoughts] is correct. Output the most concise answer directly."
+    },
+    {
+        "role": "user",
+        "content": "Question: In which location are the headquarters of the developer of Android Jelly Bean situated?\n[New Thoughts]: Android Jelly Bean was developed by Google.\nThe headquarters of Google is located in the city of Googleplex."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer from [New Thoughts]: Googleplex"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the head of government in the city where Husky Energy's headquarters is located?\n[New Thoughts]: The headquarters of Husky Energy is located in the city of Calgary.\nThe name of the current head of the Calgary government is Jyoti Gondek."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer from [New Thoughts]: Jyoti Gondek"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the head of state of the country of citizenship of Theodoros Angelopoulos?\n[New Thoughts]: Theodoros Angelopoulos is a citizen of Greece.\nThe name of the current head of state in Greece is Aikaterini Sakellaropoulou."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer from [New Thoughts]: Aikaterini Sakellaropoulou"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the head of government in the location where Vulcan Inc. is headquartered?\n[New Thoughts]: The headquarters of Vulcan Inc. is located in the city of Seattle.\nThe name of the current head of the Seattle government is Bruce Harrell."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer from [New Thoughts]: Bruce Harrell"
+    },
+    {
+        "role": "user",
+        "content": "Question: Who is the head of government of the country where Greg Combet holds citizenship?\n[New Thoughts]: Greg Combet is a citizen of Australia.\nThe name of the current head of the Australia government is Anthony Albanese."
+    },
+    {
+        "role": "assistant",
+        "content": "Answer from [New Thoughts]: Anthony Albanese"
+    }
+]

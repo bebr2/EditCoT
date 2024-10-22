@@ -1,0 +1,10 @@
+For the given question Q, and the two provided answers (Answer 1 and Answer 2), determine if the answers are semantically consistent. Choose the most appropriate option from the following:
+
+A. Yes, they convey similar ideas or information.
+B. No, they are different or contradictory.
+
+Question Q: {}
+Answer 1: {}
+Answer 2: {}
+
+Your choice:

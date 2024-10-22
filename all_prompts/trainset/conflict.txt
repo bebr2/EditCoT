@@ -1,0 +1,10 @@
+Evaluate the relationship between the following two sentences based on their factual content. Choose the most appropriate option from the following:
+
+A. The two sentences contain conflicting knowledge.
+B. The two sentences support or complement each other.
+C. The two sentences are unrelated (no conflict, but no connection).
+
+Sentence 1: {}
+Sentence 2: {}
+
+Your choice:
